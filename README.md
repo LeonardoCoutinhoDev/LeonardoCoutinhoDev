@@ -71,7 +71,15 @@
 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+  </div>
 
+---
+
+  <div>
+  <h3>Conception</h3>
+
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    
   </div>
 </div>
 
